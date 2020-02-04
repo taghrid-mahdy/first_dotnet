@@ -49,8 +49,14 @@ namespace code
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                    name: "movies",
+                    pattern: "{controller=Movies}/{action=Random}"
+                );
+                
+                endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+
             });
         }
     }

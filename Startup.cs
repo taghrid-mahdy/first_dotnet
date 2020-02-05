@@ -54,8 +54,13 @@ namespace code
                 );
 
                 endpoints.MapControllerRoute(
+                    name: "customerName",
+                    pattern: "{controller=Movies}/{action=customerContent}/{Id?}"
+                );
+
+                endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{Id}");
 
             });
         }

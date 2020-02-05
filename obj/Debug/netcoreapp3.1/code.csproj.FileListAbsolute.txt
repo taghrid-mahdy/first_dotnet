@@ -33,3 +33,4 @@
 /home/taghrid/[FreeCourseSite.com] Udemy - The Complete ASP.NET MVC 5 Course/code/obj/Debug/netcoreapp3.1/code.dll
 /home/taghrid/[FreeCourseSite.com] Udemy - The Complete ASP.NET MVC 5 Course/code/obj/Debug/netcoreapp3.1/code.pdb
 /home/taghrid/[FreeCourseSite.com] Udemy - The Complete ASP.NET MVC 5 Course/code/obj/Debug/netcoreapp3.1/code.csproj.CopyComplete
+/home/taghrid/[FreeCourseSite.com] Udemy - The Complete ASP.NET MVC 5 Course/code/obj/Debug/netcoreapp3.1/Razor/Views/Movies/Random.cshtml.g.cs

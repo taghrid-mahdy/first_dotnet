@@ -50,9 +50,9 @@ namespace code
             {
                 endpoints.MapControllerRoute(
                     name: "movies",
-                    pattern: "{controller=Movies}/{action=Random}"
+                    pattern: "{controller=Movies}/{action=Random}/{id?}"
                 );
-                
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

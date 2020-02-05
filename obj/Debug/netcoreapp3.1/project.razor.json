@@ -20511,6 +20511,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/taghrid/[FreeCourseSite.com] Udemy - The Complete ASP.NET MVC 5 Course/code/Views/Movies/Random.cshtml",
+      "TargetPath": "Views/Movies/Random.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/taghrid/[FreeCourseSite.com] Udemy - The Complete ASP.NET MVC 5 Course/code/Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
       "FileKind": "mvc"
